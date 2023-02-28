@@ -6,9 +6,13 @@
 
 # 💪 Getting Started
 TODO
-![This is an image](https://github.com/user1342/Secure-App-Demo/blob/main/assets/login.png?raw=true)
 
-![This is an image](https://github.com/user1342/Secure-App-Demo/blob/main/assets/settings.png?raw=true)
+<br>
+<p align="center">
+  <img src="/assets/login.png" width="200" />
+  <img src="/assets/settings.png" width="200" />
+</p>
+<br>
 
 
 
