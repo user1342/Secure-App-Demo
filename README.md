@@ -3,6 +3,7 @@
 # Secuirty Issues and Vulnerabilities 
 - Exported activities ✔️
 - Passwords in memory ❌
+- Passwords in plain text ❌
 
 # 💪 Getting Started
 TODO
