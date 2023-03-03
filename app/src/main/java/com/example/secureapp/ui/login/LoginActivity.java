@@ -31,6 +31,10 @@ import com.example.secureapp.databinding.ActivityLoginBinding;
 
 public class LoginActivity extends AppCompatActivity {
 
+    static {
+       System.loadLibrary("secureapp");
+    }
+
     private LoginViewModel loginViewModel;
     private ActivityLoginBinding binding;
 
