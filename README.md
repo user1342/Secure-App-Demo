@@ -2,12 +2,11 @@
 
 # Secuirty Issues and Vulnerabilities 
 - Exported activities ✔️
-- Passwords in memory ❌
-- Passwords in plain text ❌
+- Passwords in memory ✔️
+- Passwords in plain text ✔️
 
 # 💪 Getting Started
-TODO
-
+Download and build the APK.
 <br>
 <p align="center">
   <img src="/assets/login.png" width="200" />
